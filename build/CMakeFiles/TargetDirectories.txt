@@ -1,0 +1,12 @@
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/memory_allocator.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/test_memory_allocator.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/example_usage.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/benchmark.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/run_tests.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/test.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/edit_cache.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/rebuild_cache.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/list_install_components.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/install.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/install/local.dir
+/home/saikiran/rightware-memory-allocator/build/CMakeFiles/install/strip.dir

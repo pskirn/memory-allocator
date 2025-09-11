@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmemory_allocator.a CMakeFiles/memory_allocator.dir/src/memory_allocator.cpp.o
+/usr/bin/ranlib libmemory_allocator.a

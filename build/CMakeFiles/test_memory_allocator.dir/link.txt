@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wall -Wextra CMakeFiles/test_memory_allocator.dir/tests/test_memory_allocator.cpp.o -o test_memory_allocator  libmemory_allocator.a 

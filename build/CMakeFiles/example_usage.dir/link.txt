@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wall -Wextra CMakeFiles/example_usage.dir/examples/example_usage.cpp.o -o example_usage  libmemory_allocator.a 

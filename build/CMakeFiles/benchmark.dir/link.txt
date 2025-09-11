@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wall -Wextra CMakeFiles/benchmark.dir/tests/benchmark.cpp.o -o benchmark  libmemory_allocator.a 
