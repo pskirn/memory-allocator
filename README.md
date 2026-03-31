@@ -55,7 +55,7 @@ This library provides a C++17 memory allocator with the following key features:
 
 ```bash
 # Clone or extract the project
-cd rightware-memory-allocator
+cd memory-allocator
 
 # Create build directory
 mkdir build && cd build
