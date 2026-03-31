@@ -1,6 +1,6 @@
-# Rightware Memory Allocator
+# Memory Allocator
 
-A deterministic memory allocator specialized for embedded systems, implementing the requirements specified in the Rightware Programming Assignment.
+A deterministic memory allocator specialized for embedded systems.
 
 ## Overview
 
@@ -143,6 +143,3 @@ For production use, consider:
 - Extensive fuzzing and stress testing
 - Platform-specific optimizations
 
-## License
-
-This code is provided for evaluation purposes as part of the Rightware programming assignment.
